@@ -1,0 +1,16 @@
+{
+    "command": [
+        {
+            "command": "22",
+            "detail": "register word many",
+            "arrayNo": [
+                "1100",
+                "1101",
+                "1110",
+                "1111"
+            ],
+            "interval": 1000,
+            "expire_time": 60
+        }
+    ]
+}

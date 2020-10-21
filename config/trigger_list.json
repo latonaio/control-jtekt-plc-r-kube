@@ -1,0 +1,104 @@
+{
+  "command": [
+    {
+      "trigger": {
+        "command": "26",
+        "arrayNo": "1000",
+        "elementName": "Bit",
+        "conditions": "==1",
+        "always": 0
+      },
+      "connectionKey": "car-number"
+    },
+    {
+      "trigger": {
+        "command": "26",
+        "arrayNo": "1001",
+        "elementName": "Bit",
+        "conditions": "==1",
+        "always": 0
+      },
+      "connectionKey": "car-number"
+    },
+    {
+      "trigger": {
+        "command": "26",
+        "arrayNo": "1002",
+        "elementName": "Bit",
+        "conditions": "==1",
+        "always": 0
+      },
+      "connectionKey": "car-number"
+    },
+    {
+      "trigger": {
+        "command": "26",
+        "arrayNo": "1003",
+        "elementName": "Bit",
+        "conditions": "==1",
+        "always": 0
+      },
+      "connectionKey": "car-number"
+    },
+    {
+      "trigger": {
+        "command": "26",
+        "arrayNo": "1000",
+        "elementName": "Bit",
+        "conditions": "==0",
+        "always": 0
+      },
+      "connectionKey": "car-number"
+    },
+    {
+      "trigger": {
+        "command": "26",
+        "arrayNo": "1001",
+        "elementName": "Bit",
+        "conditions": "==0",
+        "always": 0
+      },
+      "connectionKey": "car-number"
+    },
+    {
+      "trigger": {
+        "command": "26",
+        "arrayNo": "1002",
+        "elementName": "Bit",
+        "conditions": "==0",
+        "always": 0
+      },
+      "connectionKey": "car-number"
+    },
+    {
+      "trigger": {
+        "command": "26",
+        "arrayNo": "1003",
+        "elementName": "Bit",
+        "conditions": "==0",
+        "always": 0
+      },
+      "connectionKey": "car-number"
+    },
+    {
+      "trigger": {
+        "command": "26",
+        "arrayNo": "1004",
+        "elementName": "Bit",
+        "conditions": "==1",
+        "always": 0
+      },
+      "connectionKey": "inspection-start-a"
+    },
+    {
+      "trigger": {
+        "command": "26",
+        "arrayNo": "1005",
+        "elementName": "Bit",
+        "conditions": "==1",
+        "always": 0
+      },
+      "connectionKey": "inspection-start-b"
+    }
+  ]
+}
